@@ -13,7 +13,7 @@ The objective of this task is to **design and deploy a professional, responsive 
 👉 https://your-live-link-here
 
 **💻 GitHub Repository**  
-👉 https://github.com/your-username/FUTURE_FS_01
+👉 https://github.com/Araveetimahendra/FUTURE_FS_01
 
 ---
 
